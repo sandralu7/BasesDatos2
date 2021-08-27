@@ -1,0 +1,21 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>co.com.persistencia</groupId>
+  <artifactId>persistencia</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>Persistencia</name>
+  <description>Ejemplo de persistencia para conectarnos a una base de datos</description>
+  
+  <dependencies>
+  
+		  <!-- https://mvnrepository.com/artifact/mysql/mysql-connector-java -->
+		<dependency>
+		    <groupId>mysql</groupId>
+		    <artifactId>mysql-connector-java</artifactId>
+		    <version>8.0.26</version>
+		</dependency>
+		  
+  
+  </dependencies>
+  
+</project>
